@@ -6,11 +6,11 @@ This project applies the Decision Analysis (DA) Cycle—Formulation, Evaluation,
 
 After thorough analysis, our team recommends a No Partnership / No Expansion strategy. If the Cyclone Enzyme proves to be a technical and commercial success, this path offers the greatest long-term value. It allows DAC to:
 
-Maximize financial returns
+1. Maximize financial returns
 
-Retain full control of intellectual property
+2. Retain full control of intellectual property
 
-Strengthen internal technical expertise
+3. Strengthen internal technical expertise
 
-Establish itself as a leader in innovation# DA Corp- Decision Analysis
+4. Establish itself as a leader in innovation# DA Corp- Decision Analysis
 
